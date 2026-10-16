@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suggest a feature
+    url: https://github.com/everyAi007/everypilot-community/discussions/new?category=ideas
+    about: Ideas live in Discussions so everyone can upvote them.
+  - name: Ask a question
+    url: https://github.com/everyAi007/everypilot-community/discussions/categories/q-a
+    about: How do I…? Other pilots and the developer answer here.
