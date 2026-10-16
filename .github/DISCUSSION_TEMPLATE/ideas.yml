@@ -1,0 +1,36 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping shape everyPilot. Please search first and upvote if someone already asked for the same thing.
+        **Never include logbook data, licence numbers or personal details.**
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The job you want done, in your own words. For example "Print my logbook in the format my national authority wants".
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How would you like it to work?
+      description: Screens, buttons, what the result looks like. Sketches welcome.
+  - type: dropdown
+    id: who
+    attributes:
+      label: What kind of flying do you do?
+      options:
+        - Student / private
+        - Instructor
+        - Commercial / charter
+        - Airline
+        - Military
+        - Other
+  - type: input
+    id: authority
+    attributes:
+      label: Licensing authority (if it matters for this idea)
+      placeholder: FAA, EASA, UK CAA, GCAA, DGCA…
