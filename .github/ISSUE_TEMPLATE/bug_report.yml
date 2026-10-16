@@ -1,0 +1,33 @@
+name: Report a problem
+description: Something in everyPilot doesn't work the way it should.
+title: "[Problem] "
+labels: ["problem"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sorry something went wrong. **Never include logbook data, licence numbers or personal details.** A screenshot with names blurred out is fine.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen again
+      placeholder: |
+        1. Open Logbook
+        2. Tap …
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      description: Filled in when you report from the app (Me → Community → Report a problem).
+  - type: input
+    id: device
+    attributes:
+      label: Phone and system
+      placeholder: iPhone 16, iOS 26 / Pixel 9, Android 16
