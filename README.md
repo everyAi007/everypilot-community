@@ -1,6 +1,6 @@
 # everyPilot community
 
-everyPilot is a pilot logbook you pay for once and own for life. Your records stay on your phone and in the cloud account *you* choose. We never hold them.
+everyPilot is a pilot logbook you pay for once, with no subscription. Your records stay on your phone and in the cloud account *you* choose. We never hold them.
 
 The app is shaped by the pilots who use it. This is where you tell us what to build next.
 
@@ -28,8 +28,16 @@ You can open all of these from the app too: **Me → Community**.
 - One idea per post. Search first and upvote if it already exists.
 - Be kind. We're all pilots here.
 
+## Privacy and terms
+
+- [Privacy Policy](privacy.md)
+- [Terms of Use](terms.md)
+- [Safety & accuracy notice](safety.md)
+
+The same documents are in the app under **Me → Privacy & legal**. Questions: everyai007@gmail.com.
+
 ## Support the app
 
-everyPilot has no ads, no subscription and no servers to pay for. Tips and donations keep it on the App Store and Google Play and keep updates coming. You can tip from inside the app (**Me → Support everyPilot**).
+everyPilot has no ads, no subscription and no servers to pay for. Tips keep it in the app stores and keep updates coming. You can tip from inside the app (**Me → Support everyPilot**).
 
-Your donation matters. Thank you.
+Thank you.
