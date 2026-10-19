@@ -28,6 +28,7 @@ Once a day, when you open it, the app saves a backup copy on your device and kee
 - Camera and photos: to photograph or pick logbook pages, ACARS screens and documents, and to scan crew-share and signing QR codes. Only the images you choose are used.
 - Notifications: for reminders you set up (expiries, currency, report times). They are scheduled on your device.
 - Network status: to hold syncing until Wi-Fi if you ask it to.
+- Age range (iPhone): where a US state’s app-store law applies, the app asks Apple to share your age range (for example “18 or over”, never your birthday) through Apple’s Declared Age Range feature. You, or your parent or guardian, decide whether to share it. The app uses it only to check the minimum age in our Terms and to follow those laws. It stays on your device and is never sent to us.
 
 ## Information that leaves your device — only when you choose
 

@@ -12,7 +12,7 @@ everyPilot is an electronic pilot logbook and record-keeping tool. It helps you 
 
 ## 2. Who may use it
 
-You must be at least 13 years old to use everyPilot. If you are under the age of majority where you live, you may use it only with the agreement of a parent or guardian, who accepts these Terms for you. Some features rely on third-party services that set their own minimum age (for example, most AI providers require you to be 18 or older); you must meet those requirements to use them.
+You must be at least 13 years old to use everyPilot. If you are under the age of majority where you live, you may use it only with the agreement of a parent or guardian, who accepts these Terms for you. On iPhone, where a law requires apps to check age, the app asks Apple for your age range and does not open for users under 13. Some features rely on third-party services that set their own minimum age (for example, most AI providers require you to be 18 or older); you must meet those requirements to use them.
 
 ## 3. Your licence to use the app
 
