@@ -22,7 +22,7 @@ You may not: copy, modify or distribute the app except as the law allows; revers
 
 ## 4. Free use, the one-time unlock and tips
 
-- Free: you can download everyPilot and use every feature, including importing your full history, viewing, exporting, printing and backups. Logging new flights in the app is free up to the limit shown in the app (currently 25 flights); imported flights never count.
+- Free: you can download everyPilot and use every feature, including importing your full history, viewing, exporting, printing and backups. Logging new flights in the app is free up to the limit shown in the app (currently 100 flights); imported flights never count.
 - One-time unlock (“Lifetime”): a single payment removes the logging limit. It is a one-time purchase of a licence to use everyPilot’s full features, not ownership of the app or its code, and it is not a subscription. “Lifetime” means for as long as we offer everyPilot in the app store where you bought it, including the updates we release in that time. If we ever stop offering everyPilot, the app already on your device keeps working offline and your data stays yours, but we can’t promise it will keep working with future versions of your device’s operating system. You can restore the unlock on your other devices that use the same store account, using “Restore purchase”.
 - Tips: tips are voluntary one-off payments to support development. They unlock nothing.
 - Payment is handled by Apple or Google under its terms. We never see your payment details. Refunds are handled by the store under its refund policy and the law of your country; except where the law or the store’s policy gives you a right to a refund, payments are not refundable.
