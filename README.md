@@ -4,6 +4,11 @@ everyPilot is a pilot logbook you pay for once, with no subscription. Your recor
 
 The app is shaped by the pilots who use it. This is where you tell us what to build next.
 
+## Get everyPilot
+
+- **iPhone:** [everyPilot: Pilot Logbook on the App Store](https://apps.apple.com/app/id6824715755)
+- **Android:** in testing on Google Play before it opens to everyone. To join, email your Google account address to everyai007@gmail.com and we'll send you the link.
+
 ## How to take part
 
 | You want to… | Go here |
