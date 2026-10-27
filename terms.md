@@ -34,7 +34,7 @@ You own your logbook and everything you put into everyPilot. It is stored on you
 
 ## 6. Services from other companies
 
-Some features connect to services that other companies provide under their own terms and privacy policies, using your own accounts: iCloud, Google Drive, Dropbox, Microsoft OneDrive or a WebDAV server you choose (sync); Google Gemini, Anthropic Claude or OpenAI (AI reading, using your own API key, billed to you by the provider); Apple or Google (purchases); GitHub (the community board); and calendar or roster addresses you enter. You are responsible for following those terms and for any charges from those providers. We are not responsible for those services, their availability or how they handle your data.
+Some features connect to services that other companies provide under their own terms and privacy policies, using your own accounts: iCloud, Google Drive, Dropbox, Microsoft OneDrive or a WebDAV server you choose (sync); Google Gemini, Anthropic Claude or OpenAI (AI reading, using your own API key, billed to you by the provider); Apple or Google (purchases); GitHub (the community board); Planespotters.net (photos of aircraft, when you tap for one); and calendar or roster addresses you enter. You are responsible for following those terms and for any charges from those providers. We are not responsible for those services, their availability or how they handle your data.
 
 ## 7. AI reading
 
