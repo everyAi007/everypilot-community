@@ -41,6 +41,12 @@ You can open all of these from the app too: **Me → Community**.
 
 The same documents are in the app under **Me → Privacy & legal**. Questions: everyai007@gmail.com.
 
+## Accessibility
+
+everyPilot is built to work with VoiceOver on iPhone and TalkBack on Android. Every button, switch and field has a spoken name, Fly now announces each stamp, text grows up to twice its size with your phone's text-size setting, and animations calm down when Reduce Motion is on.
+
+If something is hard to use with a screen reader, larger text or any other accessibility setting, email everyai007@gmail.com and say which screen. We'll fix it.
+
 ## Support the app
 
 everyPilot has no ads, no subscription and no servers to pay for. Tips keep it in the app stores and keep updates coming. You can tip from inside the app (**Me → Support everyPilot**).
