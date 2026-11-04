@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Effective 2 November 2026. Your logbook stays on your phone or in your own cloud. We don’t receive it._
+_Effective 4 November 2026. Your logbook stays on your phone or in your own cloud. We don’t receive it._
 
 This Privacy Policy explains how the everyPilot app handles information, and how Eyinsan Odugba (“we”, “us”, “our”) handles the little information we do receive. It applies to the app and to messages you send us.
 
@@ -8,7 +8,7 @@ This Privacy Policy explains how the everyPilot app handles information, and how
 
 - Your logbook is stored on your device. We have no servers, no user accounts and no access to your logbook.
 - If you turn on sync, your logbook goes to your own cloud account (iCloud, Google Drive, Dropbox, OneDrive or your WebDAV server), not to us.
-- If you turn on AI reading, the page photos and questions you choose to send go directly from your device to the AI provider you picked, using your own key — and only after you give permission.
+- If you turn on AI reading, the page photos, questions and résumé lines you choose to send go directly from your device to the AI provider you picked, using your own key — and only after you give permission.
 - No advertising, no tracking across apps or websites, no selling or sharing of personal information, no profiling.
 - We receive information only if you email us, and we use it only to answer you.
 
@@ -33,7 +33,7 @@ Once a day, when you open it, the app saves a backup copy on your device and kee
 ## Information that leaves your device — only when you choose
 
 - Cloud sync and backups: if you connect iCloud, Google Drive, Dropbox, Microsoft OneDrive or a WebDAV server, your logbook — with the photos and scanned documents you add, unless you turn photo sync off in Cloud & sync — is copied to your own account with that provider, which handles it under its privacy policy. Sign-in tokens are kept in your device’s secure keychain. On Google Drive, everyPilot uses a private app folder and cannot see your other files. WebDAV passwords are only sent over https (except to your own local network).
-- AI reading (optional): if you set it up and give permission, the photo or scan of a logbook page you choose, or a question you type in Ask your logbook (with the names of the logbook’s fields and your aircraft types, tail numbers and custom-field choices — never your flights), is sent directly to the provider you picked — Google (Gemini), Anthropic (Claude) or OpenAI — using your own API key. Page images can contain names, certificate numbers and signatures. The provider handles them under your agreement with it and its privacy policy, which may allow it to keep the data for a time (for example for abuse monitoring) and, on some free plans, to use it to improve its services; check your provider’s terms. We never receive these images or questions. You can withdraw permission at any time by turning off AI reading.
+- AI reading (optional): if you set it up and give permission, the photo or scan of a logbook page you choose, a question you type in Ask your logbook (with the names of the logbook’s fields and your aircraft types, tail numbers and custom-field choices — never your flights), or the lines of your own résumé you ask it to translate or polish (which can include your work history and other personal details), is sent directly to the provider you picked — Google (Gemini), Anthropic (Claude) or OpenAI — using your own API key. Page images can contain names, certificate numbers and signatures. The provider handles them under your agreement with it and its privacy policy, which may allow it to keep the data for a time (for example for abuse monitoring) and, on some free plans, to use it to improve its services; check your provider’s terms. We never receive these images, questions or résumé lines. You can withdraw permission at any time by turning off AI reading.
 - On-device text reading: when you photograph or pick a logbook page, everyPilot reads its printed headings and text on your device with Google ML Kit, a software library from Google (on Android, ML Kit also reads QR codes you scan). ML Kit sends Google technical information about its own use — device model and operating system, app name and version, a per-installation identifier, and performance and error data — which Google uses for diagnostics and to maintain and improve ML Kit. It does not send the image or the text it reads.
 - Rosters and calendars: if you subscribe to a roster calendar address, the app downloads it from the address you enter.
 - Track Inbox: if you use cloud sync with iCloud Drive, Dropbox, OneDrive or WebDAV, everyPilot looks in a “Track Inbox” folder next to your logbook in that same account when the app opens, reads any track logs you put there on your device, and moves the ones you import to “Track Inbox/Imported”. Nothing is deleted, and nothing goes anywhere else. You can turn this off in Cloud & sync.

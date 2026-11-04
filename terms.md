@@ -1,6 +1,6 @@
 # Terms of Use
 
-_Effective 2 November 2026. The agreement between you and Eyinsan Odugba for using everyPilot._
+_Effective 4 November 2026. The agreement between you and Eyinsan Odugba for using everyPilot._
 
 These Terms of Use (“Terms”) are an agreement between you and Eyinsan Odugba (“we”, “us”, “our”), the publisher of the everyPilot app (“everyPilot” or the “app”). By tapping “Agree and continue”, or by using the app, you agree to these Terms. If you don’t agree, don’t use the app. Our Privacy Policy explains how information is handled and is part of these Terms.
 
@@ -38,7 +38,7 @@ Some features connect to services that other companies provide under their own t
 
 ## 7. AI reading
 
-If you turn on AI reading, the photos or scans of logbook pages and the questions you choose to send (with your logbook’s field names, aircraft types, tail numbers and custom-field choices — never your flights) go directly from your device to the AI provider you picked, under your own account and its terms. We ask for your permission before anything is sent and you can withdraw it at any time. AI can misread handwriting, numbers, dates and times. Results are suggestions: you must check every entry before you save it, and you are responsible for what you save.
+If you turn on AI reading, the photos or scans of logbook pages, the questions you choose to send (with your logbook’s field names, aircraft types, tail numbers and custom-field choices — never your flights) and the résumé lines you ask it to translate or polish go directly from your device to the AI provider you picked, under your own account and its terms. We ask for your permission before anything is sent and you can withdraw it at any time. AI can misread handwriting, numbers, dates and times. Results are suggestions: you must check every entry before you save it, and you are responsible for what you save.
 
 ## 8. Aviation safety and regulations — read this
 
