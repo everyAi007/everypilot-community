@@ -6,7 +6,7 @@ This Privacy Policy explains how the everyPilot: Airline Interviews app handles 
 
 ## In short
 
-- Your progress (questions answered, your streak, your target airline and interview date, your own answers, mock results and settings) is stored on your device. We don’t receive it.
+- Your progress (questions answered, your streak, your target airline and interview date, your own answers, questions you add, mock results and settings) is stored on your device. We don’t receive it.
 - Signing in is optional until you buy a plan. If you sign in (Apple, Google or an email code), our server keeps an account id, how you signed in, your email address if you used email, your plan, and which free and paid questions and answers your account has opened. That is what runs your plan and stops the bank being copied.
 - No advertising, no analytics, no tracking across apps or websites, no selling or sharing of personal information.
 - You can delete your account in the app at any time (Me › Account › Delete account).
@@ -26,12 +26,12 @@ The app stores on your device: your role (for example cadet or first officer) an
 - Age range (iPhone): where a US state’s app-store law applies, the app asks Apple for your age range (never your birthday). It is used only to check the minimum age, stays on your device, and is never sent to us.
 - Notifications (optional): daily study reminders are scheduled on your phone. If you’re signed in and reminders are on, we also keep your phone’s push token, time zone and reminder hour so we can send at most two kinds of note: one if you haven’t opened the app for a week (no more than 3 in a row), and a heads-up before a 3-month pass ends. Turning reminders off, signing out or deleting your account removes them from our server. Expo (our app platform) relays the notification to Apple or Google to deliver it; the note itself contains no question text or personal details.
 - Microphone and speech recognition (optional, only when you tap “Answer out loud”): your spoken answer is turned into text to time it and count filler words. Where your phone supports it this happens on the phone; otherwise your phone’s own speech service (Apple or Google) processes the audio under their terms. We never receive the audio or the text unless you save it as your answer, which stays on your phone.
-- Files (optional): if you choose a logbook export to find stories, the app reads it on your phone. Nothing from it is sent to us.
+- Files (optional): if you choose a logbook export to find stories, or a file of interview questions to add to My questions, the app reads it on your phone. Nothing from it is sent to us.
 
 ## Your account (if you sign in)
 
 - Sign in with Apple: Apple gives us a private user id and, if you choose to share it, your email (which can be an Apple relay address). Sign in with Google: Google gives us a user id; we don’t keep your Google profile. Email: we send a one-time 6-digit code to the address you type; we keep the address as your sign-in.
-- We keep: an account id, how you signed in, your email address if you used email sign-in, your plan and its end date, the App Store or Google Play transaction id (to confirm the purchase and stop it being used by another account), your free questions, and a count of answers opened each day.
+- We keep: an account id, how you signed in, your email address if you used email sign-in, your plan and its end date, the App Store or Google Play transaction id (to confirm the purchase and stop it being used by another account), your free questions, a count of answers opened each day, and (only with reminders on) your phone’s push token, time zone and reminder hour.
 - Why: to run the account and the plan you bought (contract), and to protect our content from bulk copying and fraud (legitimate interest).
 - How long: while your account exists. When you delete it, we delete the account, sign-ins, plan, free questions and counts within 30 days; we keep the store transaction id, detached from you, for up to 7 years for tax and fraud records. A subscription is cancelled in your App Store or Google Play settings, not by deleting the account.
 - Each answer is shown with a faint mark made from a scrambled version of your account id, so a leaked screenshot can be traced to an account. The mark doesn’t contain your name or email.
