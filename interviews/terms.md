@@ -1,6 +1,6 @@
 # Terms of Use
 
-_Effective 5 November 2026. The agreement between you and Eyinsan Odugba for using everyPilot: Airline Interviews._
+_Effective 6 November 2026. The agreement between you and Eyinsan Odugba for using everyPilot: Airline Interviews._
 
 These Terms of Use (“Terms”) are an agreement between you and Eyinsan Odugba (“we”, “us”, “our”), the publisher of the everyPilot: Airline Interviews app (the “app”). By tapping “Agree and continue”, or by using the app, you agree to these Terms. If you don’t agree, don’t use the app. Our Privacy Policy and our Study Content & AI Notice are part of these Terms.
 
@@ -28,7 +28,13 @@ We give you a personal, non-exclusive, non-transferable, revocable licence to us
 
 ## 5. Your answers and notes
 
-What you write in the app (your own answers and notes) belongs to you. It is stored on your device. If a later version lets you share answers or submit questions to other pilots, we will explain exactly what is shared, and ask you, before anything leaves your device.
+What you write in the app (your own answers and notes) belongs to you. It is stored on your device, unless you choose to share it.
+
+- Sharing (optional): when you add a question in My questions with “Share with the community” on, the question, its category and airline, and your answer to it are shown to other pilots under a pen name (such as “Pilot 7KQ2”), never your name. Editing your answer updates the post; deleting the question, or your account, removes it.
+- You keep ownership of what you share. You give us a worldwide, royalty-free licence to show it to other pilots, to edit it for length, clarity and personal details, and to use the questions in our question bank (where we write our own answers). The licence for a post ends when you delete it, except for questions we have already added to the bank.
+- Only share what you’re free to share: no names, contact details or other people’s personal information, nothing an airline asked you to keep confidential, nothing copied from paid products, and nothing abusive, sexual, hateful or off-topic. Posts with links or bad language are refused.
+- Other pilots’ answers are their own, not ours, and can be wrong. Check them against your manuals.
+- Report a post you think breaks these rules, or hide a pilot’s posts. A post is hidden after several reports while we look at it. We may remove any post, and stop sharing from an account that keeps breaking the rules. Contact us about a post at the email below.
 
 ## 6. Keep a copy
 
