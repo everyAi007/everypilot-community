@@ -4,9 +4,8 @@ _Where the questions and answers come from, and how to use them._
 
 ## The questions
 
-- Collected from interview reports that pilots posted publicly (forums, write-ups, prep sites’ free pages and shared study decks), then cleaned, merged and rewritten in our own words.
+- Collected from interview reports that pilots posted publicly (forums, write-ups, prep sites’ free pages and shared study decks), question lists pilots in the industry shared with us, and questions pilots share in the app, then cleaned, merged and rewritten in our own words. Other people’s answers are never copied: our answers are written from named sources.
 - “Asked at N airlines” counts the airlines where a question was reported; the date is the latest report we found.
-- Content behind logins or paywalls was not used.
 
 ## The answers
 
